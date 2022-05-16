@@ -17,19 +17,27 @@
     align-items: center;
     justify-content: space-between;
     padding: 16px;
+    background-color: #1F2937;
+    color: white;
 }
 
 .main {
     display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background-color: #1F2937;
+    color: white;
 }
 
 .awesome {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
 }
 
 .head-img {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 ul {
