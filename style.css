@@ -1,0 +1,41 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    font-family: Roboto, sans-serif;
+}
+
+.catcher {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.main {
+    display: flex;
+}
+
+.awesome {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.head-img {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
