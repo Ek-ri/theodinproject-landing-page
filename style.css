@@ -124,3 +124,12 @@ ul {
 .action-section h4 {
     margin: 0;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 72px;
+    background: #1F2937;
+    color: white;
+  }
