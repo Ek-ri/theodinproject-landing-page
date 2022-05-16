@@ -47,6 +47,11 @@ ul {
     list-style-type: none;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .info-block {
     display: flex;
     flex-direction: column;
